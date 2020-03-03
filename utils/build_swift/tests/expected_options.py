@@ -235,6 +235,7 @@ EXPECTED_DEFAULTS = {
     # SWIFT_ENABLE_TENSORFLOW
     'enable_tensorflow': False,
     'enable_tensorflow_gpu': False,
+    'enable_x10': False,
     'build_tensorflow': False,
     'tensorflow_host_lib_dir': None,
     'tensorflow_host_include_dir': None,
